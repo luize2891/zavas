@@ -1,0 +1,36 @@
+ body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0; /* Cor padrão do fundo */
+    }
+
+    /* Área colorida específica */
+    .fundo-parcial {
+        width: 100%;
+        height: 33px; /* Altura da área colorida */
+        background-color: #243140;
+         color: #C7AE7D;
+        display: flex;
+        justify-content: left;
+        font-size: 1.2rem;
+        padding-left: 280px;
+        padding-top: -100px;
+        top: -290;
+        position: relative;
+    }
+
+.logo {
+        width: 10%;
+        height: 78px; /* Altura da área colorida */
+        background-color: #243140;
+         color: #C7AE7D;
+        display: flex;
+        justify-content: left;
+        font-size: 1.2rem;
+        padding-left: 145px;
+    }
+
+    /* Conteúdo abaixo */
+    .conteudo p {
+        padding: 20px;
+    }
